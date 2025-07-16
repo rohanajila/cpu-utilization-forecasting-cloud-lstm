@@ -44,8 +44,8 @@ Student ID: 22249729
 
 ## 📄 Related Documents
 - [📄 Final Research Report](./report/MSc%20Research%20Project%20Report.pdf)
-- [🛠️ Configuration Manual](./report/Configuration%20Manual.pdf)
-- [📊 Presentation Slides](./report/Presentation%20Slides.pptx)
+- [🛠️ Configuration Manual](./report/Config%20Manual.pdf)
+- [📊 Presentation Slides](./report/Research%20Project%20PPT.pptx)
 
 ## 🛠️ Future Enhancements
 - Real-time data streaming with AWS Kinesis
