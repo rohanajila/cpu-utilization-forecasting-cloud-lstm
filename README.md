@@ -54,5 +54,5 @@ Student ID: 22249729
 - Memory & Network forecasting alongside CPU
 
 ## 📃 License
-MIT License (recommended)
+None
 
